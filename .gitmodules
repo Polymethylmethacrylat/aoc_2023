@@ -1,3 +1,6 @@
 [submodule "01_trebuchet"]
 	path = 01_trebuchet
 	url = https://github.com/Polymethylmethacrylat/01_trebuchet
+[submodule "02_cupe-conundrum"]
+	path = 02_cupe-conundrum
+	url = https://github.com/Polymethylmethacrylat/02_cupe-conundrum
